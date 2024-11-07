@@ -1,0 +1,6 @@
+streamlit
+streamlit
+elevenlabs==1.12.1
+deep-translator
+pydub
+ffmpeg-python
